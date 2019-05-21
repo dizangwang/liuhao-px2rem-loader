@@ -1,0 +1,22 @@
+{
+  "name": "liuhao-px2rem-loader",
+  "version": "1.0.0",
+  "description": "px-rem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dizangwang/liuhao-px2rem-loader.git"
+  },
+  "keywords": [
+    "px2rem"
+  ],
+  "author": "liuhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dizangwang/liuhao-px2rem-loader/issues"
+  },
+  "homepage": "https://github.com/dizangwang/liuhao-px2rem-loader#readme"
+}
