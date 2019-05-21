@@ -1,6 +1,6 @@
 {
   "name": "liuhao-px2rem-loader",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "px-rem",
   "main": "index.js",
   "scripts": {
